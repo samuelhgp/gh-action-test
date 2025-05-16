@@ -1,0 +1,7 @@
+Para un proyecto de Node.js, un archivo .gitignore típico podría verse así:
+Ejemplo de Código JS - continuacion
+
+node_modules/
+.DS_Store
+*.log
+*.env
